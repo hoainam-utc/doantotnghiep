@@ -1,0 +1,14 @@
+@import "./../../bases/common";
+//Plugins
+//Components global
+@import "./../../components/breadcrumb";
+@import "./../../components/header";
+@import "./../../components/menu_main";
+@import "./../../components/footer";
+@import "./../../components/product_item";
+
+
+@import "./../../components/filter_sidebar";
+
+//Include
+@import "./../../pages/product_search/include/inc_product_list";
